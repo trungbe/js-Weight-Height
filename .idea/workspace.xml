@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82926cdb-3bb3-4ec7-96d6-f0596b4ecc50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chessboard/chess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateFormSurvey/survey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateFormSurvey/survey.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateTableAdvance/css/table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateTableAdvance/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateTableAdvance2/css/table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateTableAdvance2/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Create_table_basic/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calendar/calendar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js3PersonOperator/Baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js3PersonOperator/Baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsCheckLeapYear/leapYear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsConvertMoney/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsConvertMoney/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDeclare/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDeclare/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDeclare/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDip/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDip/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDip/bt3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDisplayOutput/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDisplayOutput/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDisplayOutput/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsDisplayOutput/baitap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsEventKeyboard/Nobita001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsEventKeyboard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsEventMouse/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsEventMouse/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsIfElse/ex01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsIfElseIf/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsOperator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsOperator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsSwitchCase/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsSwitchCase/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsSwitchCase/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsVarTypeOperator/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsVarTypeOperator/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsVarTypeOperator/baitap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsVarTypeOperator/baitap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Create simple form" beforeDir="false" afterPath="$PROJECT_DIR$/../Create simple form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Create-simple-table" beforeDir="false" afterPath="$PROJECT_DIR$/../Create-simple-table" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaoCV" beforeDir="false" afterPath="$PROJECT_DIR$/../TaoCV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testbaitap4" beforeDir="false" afterPath="$PROJECT_DIR$/../testbaitap4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k5jI7EEiTWjMMbVZrbwBisj1iH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82926cdb-3bb3-4ec7-96d6-f0596b4ecc50" name="Default Changelist" comment="" />
+      <created>1604997263493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604997263493</updated>
+      <workItem from="1604997264526" duration="3514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
